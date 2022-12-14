@@ -1,0 +1,12 @@
+body, h1 {
+    text-align: center;
+    color: #14213d;
+    padding: 10px 5px;
+}
+
+img {
+    border: 4px solid #D4AC0D;
+    width: 1fr;
+    height: 200px;
+}
+
