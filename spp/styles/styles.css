@@ -95,6 +95,14 @@ a, #logo-link {
  
 }
 
+.message-left h2 {
+  font-size: 1em;
+}
+
+.section-card h2 {
+  font-size: 2em;
+}
+
 .home-grid {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
@@ -129,6 +137,7 @@ a, #logo-link {
 .section-card h2 {
   color: var(--color-charcoal);
    font-family: "Caveat", Sans-Serif;
+   
 }
 
 .contactme {
